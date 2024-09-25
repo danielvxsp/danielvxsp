@@ -2,7 +2,7 @@
 
 ```
     .--.
-   |o_o |
+   |o o |
    |!_/ |
   //   \ \
  (|     | )
@@ -10,9 +10,6 @@
 \___)=(___/dv
 ```
 
-## About Me
-IB student 
-
-currently working on my project: **BPM Detector**.
+![Derp](https://j.gifs.com/KerpJ1.gif) ![plants vs lobotomy](https://github.com/user-attachments/assets/250f3364-28b9-47ae-842f-c349bbe17f60)
 
 [My SoundCloud](https://soundcloud.com/danielvegaa)
