@@ -1,20 +1,8 @@
 ```
-        _...._        
-       &######+       
-      &# _##_ #+      
-      H (=||0) H      
-      @, ---- JML      
-     DV  \__/  DVi     
-    d##         ##b   
-  |d##          @##b|  
- |d$>            <MMb| 
-| HZM            MMMM | 
- cFqM            MMMMs 
-  .--"\         |\dS"qML
-  \    |        | `' \Zq
-_\*     \.___.,|     .'
-\____   )      |   .'  
-     `-'       `--' 
+(0>               
+//\               
+V_/_                  
+tux
 ```
 
 ![Derp](https://j.gifs.com/KerpJ1.gif) ![plants vs lobotomy](https://github.com/user-attachments/assets/250f3364-28b9-47ae-842f-c349bbe17f60)  
